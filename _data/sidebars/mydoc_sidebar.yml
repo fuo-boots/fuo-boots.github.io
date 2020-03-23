@@ -27,6 +27,10 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
+      
+    - title: core
+      url: /mydoc_core_pattern.html
+      output: web,pdf
 
     - title: Introduction
       url: /mydoc_introduction.html
