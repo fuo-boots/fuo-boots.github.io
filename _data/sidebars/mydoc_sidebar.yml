@@ -20,8 +20,11 @@ entries:
       type: frontmatter
       
   - title: core
-    url: /core/mydoc_core_pattern.html
-    output: web,pdf
+    output: web, pdf
+    folderitems:
+    - title: pattern
+      url: /core/mydoc_core_pattern.html
+      output: web,pdf
 
   - title: Overview
     output: web, pdf
